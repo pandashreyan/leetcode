@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandashreyan/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pandashreyan/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pandashreyan/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/pandashreyan/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandashreyan/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandashreyan/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
